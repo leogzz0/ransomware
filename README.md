@@ -37,7 +37,7 @@ Run on terminal
 
 ## Usage
 
-This ransomware can be used to encrypt files ina certain directory. Fernet will create a key that will be the only thing the victim needs to unlock their documents. Fernet guarantees that a message encrypted using it cannot be manipulated or read withouth the key. Fernet is an implementation of symmetric (also known as "secret key") authenticated cryptography.
+This ransomware can be used to encrypt files in a certain directory. Fernet will create a key that will be the only thing the victim needs to unlock their documents. Fernet guarantees that a message encrypted using it cannot be manipulated or read without the key. Fernet is an implementation of symmetric (also known as "secret key") authenticated cryptography.
 
 You request something for the victim in order for you to give them the key to unlock their files. Once you give the secret phrase and they write it, the program will congratulate them and give them back their files. 
 
